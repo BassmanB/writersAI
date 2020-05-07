@@ -1,0 +1,47 @@
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.parchment{
+  background-image: url('./media/paper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 100%;
+  font: 100 25px/1.5 'Lobster Two';
+  padding: 2.5em;
+  border: none;
+}
+
+.parchment-down{
+  background-image: url('./media/paper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  font: 100 25px/1.5 'Lobster Two';
+  padding: 2.5em;
+  border: none;
+}
+
+.custom-pen{
+  cursor: url(media/small_pen.png), auto;
+}
+.ant-carousel .slick-dots li.slick-active button {
+
+  background: #000;
+  opacity: 1;
+}
+
+.ant-carousel .slick-dots li button {
+
+  display: block;
+  width: 100%;
+  height: 10px;
+  background: #000;
+  border: 2px;
+
+}
