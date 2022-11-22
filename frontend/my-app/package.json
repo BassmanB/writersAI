@@ -10,7 +10,7 @@
     "antd-form-redux": "^3.0.28",
     "axios": "^0.19.2",
     "babel-plugin-import": "^1.13.0",
-    "customize-cra-react-refresh": "^1.0.1",
+    "customize-cra-react-refresh": "^1.1.0",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
     "react": "^16.13.1",
@@ -19,7 +19,7 @@
     "react-hot-loader": "^4.12.20",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },
